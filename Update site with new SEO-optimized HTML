@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Angel’s Garden Foundation, Inc. | Christian Youth Scholarships & Family Emergency Assistance</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Angel’s Garden Foundation, Inc. is a Christian nonprofit in Simi Valley empowering underserved youth through scholarships, mentoring, and leadership development, and providing emergency assistance to families in crisis." />
+  <meta name="keywords" content="Angel’s Garden Foundation, Christian nonprofit, youth scholarships, mentoring, leadership development, family emergency assistance, Simi Valley" />
+  <meta name="author" content="Angel’s Garden Foundation, Inc." />
+
+  <!-- Open Graph / Social Sharing -->
+  <meta property="og:title" content="Angel’s Garden Foundation, Inc. | Planting Seeds of Hope, Education, and Leadership" />
+  <meta property="og:description" content="Empowering underserved students through Christian-based scholarships and mentoring, and serving families in crisis with emergency assistance." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://YOUR-GITHUB-PAGES-URL" />
+  <meta property="og:image" content="https://YOUR-GITHUB-PAGES-URL/assets/og-image.jpg" />
+
+  <!-- Favicon (optional) -->
+  <link rel="icon" href="/assets/favicon.ico" />
+
+  <!-- Basic Styling (you can replace with your own CSS file) -->
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #222;
+      background-color: #f7f8fa;
+    }
+    header {
+      background: #234f6e;
+      color: #fff;
+      padding: 1.5rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    header .brand {
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+    nav {
+      margin-top: 0.5rem;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-right: 1rem;
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1rem 3rem;
+      background-color: #fff;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    h1, h2, h3 {
+      color: #234f6e;
+      margin-top: 0;
+    }
+    .hero {
+      text-align: center;
+      padding: 2rem 1rem 2.5rem;
+      border-bottom: 1px solid #e0e4ea;
+    }
+    .hero h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    .hero p.tagline {
+      font-size: 1.1rem;
+      font-style: italic;
+      color: #3b6b8f;
+      margin-bottom: 1rem;
+    }
+    .hero .cta-buttons a {
+      display: inline-block;
+      margin: 0.25rem 0.5rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    .btn-primary {
+      background: #f4b41a;
+      color: #234f6e;
+    }
+    .btn-outline {
+      border: 1px solid #f4b41a;
+      color: #234f6e;
+      background: #fff;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      background: #234f6e;
+      color: #fff;
+      font-size: 0.85rem;
+    }
+    a {
+      color: #234f6e;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Angel’s Garden Foundation, Inc.</div>
+    <nav aria-label="Main navigation">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#programs">Programs</a>
+      <a href="#get-involved">Get Involved</a>
+      <a href="#donate">Donate</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- HOME -->
+    <section id="home" class="hero">
+      <h1>Angel’s Garden Foundation, Inc.</h1>
+      <p class="tagline">Planting seeds of hope, education, and Christ‑centered leadership.</p>
+      <p>
+        Angel’s Garden Foundation is a Christian nonprofit dedicated to empowering underserved students and youth
+        through financial support, mentoring, and leadership development. We believe every young person deserves
+        the opportunity to grow into their God‑given potential.
+      </p>
+      <p>
+        We also serve our local community by providing emergency assistance to families facing crisis, offering
+        compassion and support when it is needed most.
+      </p>
+      <div class="cta-buttons">
+        <a href="#programs" class="btn-primary">Explore Programs</a>
+        <a href="#donate" class="btn-outline">Support Our Mission</a>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about">
+      <h2>About Angel’s Garden Foundation</h2>
+      <p>
+        Angel’s Garden Foundation, Inc. is rooted in Christian values of compassion, service, and stewardship.
+        We exist to uplift underserved youth by providing the financial, emotional, and spiritual support they
+        need to succeed academically and personally.
+      </p>
+      <p>
+        We also extend our mission to the broader community by offering emergency assistance to families
+        experiencing hardship. Whether through financial aid, essential resources, or crisis support, we strive
+        to be a source of hope and stability.
+      </p>
+
+      <h3>Our Mission</h3>
+      <ul>
+        <li>Strengthen underserved students through scholarships, mentoring, and leadership development.</li>
+        <li>Provide Christ‑centered guidance that nurtures character, purpose, and responsibility.</li>
+        <li>Support families in crisis with emergency assistance and community care.</li>
+      </ul>
+
+      <h3>Our Vision</h3>
+      <p>
+        A future where every young person is equipped, supported, and inspired to become a responsible,
+        thriving member of society.
+      </p>
+
+      <h3>Our Core Beliefs</h3>
+      <ul>
+        <li>Every child deserves access to education and opportunity.</li>
+        <li>Mentorship and leadership training transform futures.</li>
+        <li>Faith‑based guidance strengthens character and purpose.</li>
+        <li>Communities flourish when families in crisis receive support.</li>
+      </ul>
+    </section>
+
+    <!-- PROGRAMS -->
+    <section id="programs">
+      <h2>Programs for Youth and Families</h2>
+      <p>
+        Our programs are designed to empower underserved students, nurture Christ‑centered leadership, and
+        provide practical support to families in crisis.
+      </p>
+
+      <h3>Student Scholarship Program</h3>
+      <p>
+        The Student Scholarship Program provides financial support for underserved students pursuing academic
+        excellence. Scholarships help cover tuition, books, supplies, and other educational needs so that
+        students can focus on learning and growth.
+      </p>
+
+      <h3>Christian Mentorship &amp; Leadership Development</h3>
+      <p>
+        Through one‑on‑one and group mentoring rooted in Christian values, students receive guidance in:
+      </p>
+      <ul>
+        <li>Personal growth and self‑development</li>
+        <li>Leadership skills and responsibility</li>
+        <li>Academic planning and goal setting</li>
+        <li>Character development and integrity</li>
+        <li>Faith‑based encouragement and spiritual support</li>
+      </ul>
+
+      <h3>Youth Empowerment Workshops</h3>
+      <p>
+        Our workshops equip youth with practical tools for life and leadership, including:
+      </p>
+      <ul>
+        <li>Life skills and decision‑making</li>
+        <li>Career readiness and vocational exploration</li>
+        <li>Leadership training and teamwork</li>
+        <li>Goal setting and time management</li>
+        <li>Community responsibility and service</li>
+      </ul>
+
+      <h3>Emergency Assistance for Families</h3>
+      <p>
+        Angel’s Garden Foundation also serves the near community by supporting families in crisis. We respond
+        with compassion, resources, and practical help in situations such as:
+      </p>
+      <ul>
+        <li>Sudden financial hardship or loss of income</li>
+        <li>Medical emergencies and unexpected expenses</li>
+        <li>Temporary housing or essential living needs</li>
+        <li>Food, supplies, and basic necessities</li>
+      </ul>
+      <p>
+        Our goal is to stand alongside families during difficult seasons and help them regain stability and hope.
+      </p>
+    </section>
+
+    <!-- GET INVOLVED -->
+    <section id="get-involved">
+      <h2>Get Involved</h2>
+      <p>
+        Your involvement helps transform lives. Whether you volunteer, partner, or give, you are planting seeds
+        of hope, education, and leadership in the next generation.
+      </p>
+
+      <h3>Volunteer</h3>
+      <p>
+        Serve as a mentor, workshop leader, event helper, or community support volunteer. Your time and presence
+        can make a lasting impact on a young person’s life.
+      </p>
+
+      <h3>Partner With Us</h3>
+      <p>
+        Churches, businesses, and community organizations are invited to collaborate with Angel’s Garden
+        Foundation to expand our reach and deepen our impact.
+      </p>
+
+      <h3>Sponsor a Student</h3>
+      <p>
+        Directly support a young person’s education and leadership journey by sponsoring a student scholarship
+        or mentoring pathway.
+      </p>
+
+      <h3>Support Families in Crisis</h3>
+      <p>
+        Help provide emergency aid to families experiencing hardship. Your generosity can bring relief, dignity,
+        and hope in moments of crisis.
+      </p>
+    </section>
+
+    <!-- DONATE -->
+    <section id="donate">
+      <h2>Donate to Angel’s Garden Foundation</h2>
+      <p>
+        Your generosity plants seeds that grow into strong futures. Every gift—large or small—helps us serve
+        underserved youth and families in need.
+      </p>
+
+      <h3>Why Give?</h3>
+      <ul>
+        <li>Provide scholarships for underserved students.</li>
+        <li>Support Christian mentorship and leadership programs.</li>
+        <li>Help families in crisis receive emergency assistance.</li>
+        <li>Strengthen the next generation of responsible leaders.</li>
+      </ul>
+
+      <h3>Ways to Give</h3>
+      <ul>
+        <li>One‑time donation.</li>
+        <li>Monthly giving as an ongoing partner.</li>
+        <li>Sponsor a student’s education and mentoring.</li>
+        <li>Support the emergency relief fund for families in crisis.</li>
+      </ul>
+
+      <p>
+        Online giving link coming soon. For now, please contact us directly to discuss giving options.
+      </p>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>
+        We would love to connect with you, answer your questions, and explore how we can serve together.
+      </p>
+      <p>
+        <strong>Angel’s Garden Foundation, Inc.</strong><br />
+        Simi Valley, California
+      </p>
+      <p>
+        Email:
+        <a href="mailto:info@angelsgardenfoundation.org">info@angelsgardenfoundation.org</a>
+        <!-- Update this once your domain email is active -->
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; <span id="year"></span> Angel’s Garden Foundation, Inc. All rights reserved.
+  </footer>
+
+  <script>
+    // Simple script to keep the footer year current
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
