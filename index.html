@@ -543,6 +543,11 @@
   const successMsg = document.getElementById('form-success');
   const errorMsg = document.getElementById('form-error');
 
+  // Hide success message when user starts typing again
+  form.addEventListener('input', () => {
+    successMsg.style.display = 'none';
+  });
+
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
 
@@ -568,6 +573,7 @@
     }
   });
 </script>
+
    
           </div>
         </div>
